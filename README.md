@@ -4,7 +4,7 @@
 
 Author: Anthony FU
 
-Constitutive Drivers using Python /n
+Constitutive Drivers using Python
 
 This code was created based on the Matlab constitutive driver designed by Prof. Mahdi Taiebat.
 
