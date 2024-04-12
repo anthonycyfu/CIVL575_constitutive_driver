@@ -5,6 +5,16 @@
 Author: Anthony FU
 
 Constitutive Drivers using Python
+This code was created based on the Matlab constitutive driver designed by Prof. Mahdi Taiebat.
+
+It represents the framework of a general constitutive 
+driver that may be adopted for use by different constitutive models for 
+different element test loadings. The program is prepared for use in the 
+course of "Constitutive Models of Soil (CIVL 575)" offered in the 
+Department of Civil Engineering at UBC. Loading constraints of laboratory 
+experiments are linearized and linked to the constitutive relations 
+in order to form a system of ODEs follwoing the proposed method by 
+Bardet and Choucair (1991).
 
 ## getting started with Python
 
